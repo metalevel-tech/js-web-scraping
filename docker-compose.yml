@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  app:
+    build: .
+    # image: "node:18-alpine"
+    ports:
+      - "48011:48011"
