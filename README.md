@@ -9,6 +9,7 @@ Add `"type": "module"` in the `package.json` file in order to use `import` direc
 ## References
 
 * Code with Ania Kubów at YouTube: [Build a Web Scraper (super simple!)](https://youtu.be/-3lqUHeZs_0)
+* Code with Ania Kubów at YouTube: [Get Data from Backend (NodeJS) to Frontend](https://youtu.be/1wXYg8Eslnc)
 * ScrapingBee.com: [Web Scraping with JavaScript and NodeJS](https://www.scrapingbee.com/blog/web-scraping-javascript/)
 * NPM [Express](https://www.npmjs.com/package/express): Fast, unopinionated, minimalist web framework for node.
 * NPM [Axios](https://www.npmjs.com/package/axios): Promise based HTTP client for the browser and node.js.
